@@ -1,0 +1,71 @@
+Summary for /www/javadecompilers/app/public/data/15.09.17/b162a83e396941b6e43f9b6050d35b4b/MrSoir.jar
+Decompiled with CFR 0_122
+
+
+application.MainFrame
+----------------------------
+
+loadFile(java.nio.file.Path boolean )
+  Unable to fully structure code
+
+
+application.SaveAndLoadFiles
+----------------------------
+
+saveMathElmntsToFile(javafx.scene.Group javafx.scene.Group java.util.List<handWriting.HandWriteElmntToDisplayII> java.util.List<comments.ImageElmnt> java.util.Collection<pdfElement.PdfContainer> java.nio.file.Path )
+  Unable to fully structure code
+
+
+bigdecimalarithmetics.Prime
+----------------------------
+
+nextprime(java.math.BigInteger )
+  Unable to fully structure code
+prevprime(java.math.BigInteger )
+  Unable to fully structure code
+
+
+bigdecimalarithmetics.Bernoulli
+----------------------------
+
+set(int bigdecimalarithmetics.Rational )
+  Unable to fully structure code
+
+
+bigdecimalarithmetics.RatPoly
+----------------------------
+
+set(int bigdecimalarithmetics.Rational )
+  Unable to fully structure code
+
+
+bigdecimalarithmetics.BigIntegerPoly
+----------------------------
+
+set(int java.math.BigInteger )
+  Unable to fully structure code
+
+
+latexPaneCreator.MathSignRepresentation
+----------------------------
+
+setFontSize()
+  Unable to fully structure code
+
+
+mathElmntPckg.MathElement
+----------------------------
+
+computeValueWithinBrackets(int int java.util.List<mathElmntPckg.FormulaElementPair> )
+  Unable to fully structure code
+createLaTeXFormulaStr()
+  Unable to fully structure code
+createLaTeXWithinBrackets(int javafx.beans.property.IntegerProperty application.Operator )
+  Unable to fully structure code
+
+
+networking.Server
+----------------------------
+
+call()
+  Unable to fully structure code
